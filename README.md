@@ -1,0 +1,3 @@
+# CommunicationManage
+homework
+已知bug是上传头像后再次载入时无法绘制头像
